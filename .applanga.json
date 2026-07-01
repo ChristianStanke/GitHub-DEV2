@@ -15,7 +15,7 @@
     "pull": {
       "target": [
         {
-          "path": "./JSON/<language/<language>_stringfile.json",
+          "path": "./JSON/<language>/<language>_stringfile.json",
           "file_format": "react_simple_json",
           "tag": "SimpleJSON",
           "key_prefix": "123_",
