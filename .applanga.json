@@ -1,0 +1,30 @@
+{
+  "app": {
+    "base_language": "en",
+    "push": {
+      "source": [
+        {
+          "path": "./JSON/EN/jsonstringfile.json",
+          "file_format": "react_simple_json",
+          "tag": "SimpleJSON",
+          "key_prefix": "123_",
+          "language": "en"
+        }
+      ]
+    },
+    "pull": {
+      "target": [
+        {
+          "path": "./JSON/EN/<language>.json",
+          "file_format": "react_simple_json",
+          "tag": "SimpleJSON",
+          "key_prefix": "123_",
+          "export_empty": true,
+          "exclude_languages": [
+            "en"
+          ]
+        }
+      ]
+    }
+  }
+}
