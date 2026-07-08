@@ -237,10 +237,5 @@
   "oneSource.disclaimerDescription": "",
   "hyundaiSSO.wantToLogBackIn": "",
   "hyundaiSSO.logBackDescription": "",
-  "hyundaiSSO.geneisilogBackDescription": "",
-  "miniCart.item.many": "",
-  "pageMetaResolver.category.title.many": "",
-  "pageMetaResolver.checkout.title.many": "",
-  "pageMetaResolver.search.findProductTitle.many": "",
-  "pageMetaResolver.search.title.many": ""
+  "hyundaiSSO.geneisilogBackDescription": ""
 }
